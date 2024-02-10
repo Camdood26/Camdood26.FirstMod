@@ -1,8 +1,8 @@
 {
   "filename": "NewHorizonsConfig.dll",
-  "author": "[your name]",
-  "name": "[your readable mod name]",
-  "uniqueName": "[your name].[your unique mod ID]",
+  "author": "Camdood26",
+  "name": "The mystery of the wetrock",
+  "uniqueName": "Camdood26.TheMysteryOfTheWetrock",
   "version": "0.0.0",
   "owmlVersion": "2.7.2",
   "dependencies": [ "xen.NewHorizons" ]
